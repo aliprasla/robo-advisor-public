@@ -1,0 +1,95 @@
+{
+    "version":"0.1",
+    "description":"Configuration File defining the universe of potential asset classes and asset tickers",
+    "data":[
+        {
+            "name":"U.S. Large Company",
+            "tickers":[
+                "SCHX","VOO"
+            ]
+
+        },
+        {
+            "name":"U.S Large Company - Fundamental",
+            "tickers":[
+                "FNDX", "PRF", "ILCV"
+            ]
+        },
+
+        {
+            "name": "U.S Small Company",
+            "tickers":[
+                "SCHA", "VB"
+            ]
+        },
+
+        {
+            "name": "U.S Small Company - Fundamental",
+            "tickers":[
+                "FNDA", "PRFZ"
+            ]
+        },
+        {
+            "name": "International Developed Large Company",
+            "tickers":[
+                "SCHF", "VEA"
+            ]
+        },
+        {
+            "name":"International Developed Large Company - Fundamental",
+            "tickers":[
+                "PXF", "FNDF"
+            ]
+        },
+        {
+            "name":"International Developed - Small Company",
+            "tickers":[
+                "SCHC", "VSS"
+            ]
+        },
+        {
+            "name":"International Developed - Small Company - Fundamental",
+            "tickers":[
+                "FNDC", "PDN"
+            ]
+        },
+        {
+            "name":"International Emerging Markets",
+            "tickers":[
+                "SCHE", "IEMG"
+            ]
+        },
+        {
+            "name":"International Emerging Markets - Fundamental",
+            "tickers":[
+                "FNDE", "PXH"
+            ]
+        },
+        
+        {
+            "name":"U.S Exchange-Traded REITS",
+            "tickers":[
+                "SCHH", "USRT"
+            ]
+        },
+        {
+            "name":"International Exchange-Traded REITS",
+            "tickers":[
+                "HAUZ", "VNQI"
+            ]
+        },
+        {
+            "name":"U.S High Dividend",
+            "tickers":[
+                "SCHD", "VYM"
+            ]
+        },
+        {
+            "name":"International High Dividend",
+            "tickers":[
+                "HDEF", "VYMI"
+            ]
+        }
+        
+    ]
+}
